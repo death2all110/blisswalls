@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+<!--
+    Wallpapers accept:
+    url="<url of wallpaper>"  [REQUIRED]
+	name="<name of wallpaper>"
+	thumbUrl="<url of thumbnail>"
+	author="<wallpaper author>" [REQUIRED]
+-->
+
+	<category name ="BlissRoms">
+        <wallpaper
+            author="customworx"
+			name="Bliss_v1"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-1"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-1.png" />
+
+		<wallpaper
+		    author="customworx"
+			name="Bliss_v1-2"
+		    url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-2.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-3"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-3.png" />		
+        
+        <wallpaper
+            author="customworx"
+			name="Bliss_v1-4"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-4.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-5"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-5.png" />
+
+		<wallpaper
+		    author="customworx"
+			name="Bliss_v1-6"
+		    url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-6.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-7"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-7.png" />	
+
+        <wallpaper
+            author="customworx"
+			name="Bliss_v1-8"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-8.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-9"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-9.png" />
+
+		<wallpaper
+		    author="customworx"
+			name="Bliss_v1-10"
+		    url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-10.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-11"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-11.png" />
+
+        <wallpaper
+		    author="customworx"
+			name="Bliss_v1-12"
+		    url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-12.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v1-13"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-13.png" />
+
+        <wallpaper
+		    author="customworx"
+			name="Bliss_v1-14"
+		    url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v1-14.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-1"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-1.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-2"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-2.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-3"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-3.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-4"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-4.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-5"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-5.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-6"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-6.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-7"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-7.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-8"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-8.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-9"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-9.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-10"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-10.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-11"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-11.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-12"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-12.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-13"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-13.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-14"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-14.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-15"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-15.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-16"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-16.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-17"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-17.png" />
+
+		<wallpaper
+	        author="customworx"
+			name="Bliss_v2-18"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-18.png" />
+
+        <wallpaper
+	        author="customworx"
+			name="Bliss_v2-19"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/Bliss_v2-19.png" />
+
+		<wallpaper
+	        author="dummy"
+			name="dummy"
+            url="https://raw.githubusercontent.com/death2all110/blisswalls/Wallpaper/dummy.png" />
+
+	</category>
+</wallpapers>
